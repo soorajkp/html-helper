@@ -1,3 +1,3 @@
 # html-helper
-html codes helper
-  this repositoy will help you to code html
+html codes helper Repository.
+  This repositoy will help you to code html files
